@@ -17,8 +17,8 @@
 
 <!-- 
   📸 SCREENSHOT: Dashboard
-  Replace this comment with:
-  ![Dashboard Screenshot](./docs/dashboard.png)
+ <img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/56f6c783-89f5-4778-b9f6-52128a262bd9" />
+
 -->
 
 ---
@@ -27,24 +27,10 @@
 
 <!-- 
   📸 SCREENSHOT: Architecture Diagram
-  Replace this comment with:
-  ![Architecture Diagram](./docs/architecture.png)
--->
+  <img width="2628" height="1521" alt="FullStack IoT Architecture" src="https://github.com/user-attachments/assets/326e46bb-6cb1-4be3-b64b-04e8af56111e" />
 
-```
-┌─────────────────┐        HTTP POST         ┌──────────────────┐
-│  ESP32 + DHT11  │ ──────── /update ───────►│   Flask + SQLite │
-│  (MicroPython)  │                          │   REST API       │
-└─────────────────┘                          └────────┬─────────┘
-                                                      │ HTTP GET
-                                             /latest, /data, /health
-                                                      ▼
-                                             ┌──────────────────┐
-                                             │  React Dashboard │
-                                             │  Vite + Tailwind │
-                                             │  Auto-refresh 5s │
-                                             └──────────────────┘
-```
+ 
+-->
 
 ---
 
