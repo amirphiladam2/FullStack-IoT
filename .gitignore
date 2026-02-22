@@ -1,0 +1,53 @@
+# ===========================
+#  Python / Backend
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.venv/
+venv/
+env/
+
+# Flask / SQLite
+instance/
+*.db
+*.sqlite3
+
+# Env files — NEVER commit secrets
+.env
+server/.env
+
+# ===========================
+#  Node / Frontend
+# ===========================
+node_modules/
+client/dist/
+client/.env
+client/.env.local
+client/.env.*.local
+
+# Vite cache
+.vite/
+
+# ===========================
+#  Editor & OS
+# ===========================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+#  Logs
+# ===========================
+*.log
+npm-debug.log*
