@@ -20,13 +20,17 @@
   📸 SCREENSHOT: Architecture Diagram
   <img width="2628" height="1521" alt="FullStack IoT Architecture" src="https://github.com/user-attachments/assets/326e46bb-6cb1-4be3-b64b-04e8af56111e" />
 
+---
+  📸 SCREENSHOT: Circuit Diagram
+ <img width="1535" height="857" alt="image" src="https://github.com/user-attachments/assets/c1479448-b5c0-423f-80c0-bf7a7f45f9b7" />
 
+
+
+---
 ---
   📸 SCREENSHOT: Dashboard
  <img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/56f6c783-89f5-4778-b9f6-52128a262bd9" />
 
-
- 
 
 ---
 
