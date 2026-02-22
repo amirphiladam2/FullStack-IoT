@@ -15,22 +15,21 @@
 
 ---
 
-<!-- 
+
   📸 SCREENSHOT: Dashboard
  <img width="1905" height="983" alt="image" src="https://github.com/user-attachments/assets/56f6c783-89f5-4778-b9f6-52128a262bd9" />
 
--->
+
 
 ---
 
 ## Architecture
 
-<!-- 
+
   📸 SCREENSHOT: Architecture Diagram
   <img width="2628" height="1521" alt="FullStack IoT Architecture" src="https://github.com/user-attachments/assets/326e46bb-6cb1-4be3-b64b-04e8af56111e" />
 
  
--->
 
 ---
 
