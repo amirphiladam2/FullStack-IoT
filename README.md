@@ -1,7 +1,7 @@
 <h1 align="center">FullStack IoT Dashboard</h1>
 
 <p align="center">
-  An end-to-end IoT project — physical sensors, a REST API, and a live web dashboard.
+  An end-to-end IoT project-physical sensors, a REST API, and a live web dashboard.
   Built with <strong>ESP32 + DHT11</strong>, <strong>Flask</strong>, and <strong>React + TypeScript</strong>.
 </p>
 
